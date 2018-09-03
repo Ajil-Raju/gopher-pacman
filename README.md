@@ -1,2 +1,2 @@
 # gopher-pacman
-just a combined project
+just a **combined*** project
